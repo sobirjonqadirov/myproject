@@ -77,7 +77,7 @@ p a {
     font-family: Iceland;
 }
 p:hover {
-    color: #fff;
+    color: #ffffff;
     animation: animationuz ease-in-out infinite alternate;
 }
 @keyframes animationuz {
